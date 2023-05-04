@@ -13,6 +13,6 @@
 
 #### Основной ноутбук проекта находится [здесь](https://github.com/ybezginova2016/NLP_EmailSpamClassifier/blob/main/main.ipynb).
 
-### На связи, Юлия Безгинова
+#### На связи, Юлия Безгинова
 Телеграм: ```ybezginova_de```
 Почта: ```ybezginova2021@gmail.com```
